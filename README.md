@@ -1,1 +1,1 @@
-# attention-based-fault-diagnoiss
+# fault_diagnosis
